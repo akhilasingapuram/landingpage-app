@@ -1,0 +1,21 @@
+.contact-container{
+text-align: center;
+padding: 20px;
+background-color: #f0f0f0;
+border: 1px solid #ddd;
+box-shadow: 0px 0px 10px rgba(red, green, blue, alpha);
+}
+
+h2{
+font-size: 24px;
+margin-bottom: 10px;
+}
+p{
+    font-size: 18px;
+}
+.contact-info{
+    margin-top: 20px;
+}
+.contact-info{
+    margin: 5px 0;
+}
